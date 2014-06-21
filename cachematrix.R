@@ -6,7 +6,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
     # set initial solution to NULL
-    I<-NULL
+    I <- NULL
     
     # one can change the original matrix by using the set() function
     # x now takes the new y value and the solution is set to NULL
